@@ -1,0 +1,5 @@
+---,Name,Icon,Mesh
+Apple,"Apple","/Script/Engine.Texture2D'/Game/OWD_Fruit_Vegetable/Textures/Icon1.Icon1'","/Script/Engine.StaticMesh'/Game/OWD_Fruit_Vegetable/Meshes/SM_Apple.SM_Apple'"
+Cabbage,"Cabbage","/Script/Engine.Texture2D'/Game/OWD_Fruit_Vegetable/Textures/Icon2.Icon2'","/Script/Engine.StaticMesh'/Game/OWD_Fruit_Vegetable/Meshes/SM_Cabbage.SM_Cabbage'"
+Watermelon,"Watermelon","/Script/Engine.Texture2D'/Game/OWD_Fruit_Vegetable/Textures/Icon3.Icon3'","/Script/Engine.StaticMesh'/Game/OWD_Fruit_Vegetable/Meshes/SM_Watermelon.SM_Watermelon'"
+Apple1,"Apple1","/Script/Engine.Texture2D'/Game/OWD_Fruit_Vegetable/Textures/Icon1.Icon1'","/Script/Engine.StaticMesh'/Game/OWD_Fruit_Vegetable/Meshes/SM_Apple.SM_Apple'"
