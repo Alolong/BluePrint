@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/BluePrint/Inventory/Inventory/Content/Inventory/Widget/SlotWidget.uasset",
+				"C:/BluePrint/Inventory/Inventory/Content/Inventory/Widget/HudWidget.uasset",
+				"C:/BluePrint/Inventory/Inventory/Content/Inventory/BP_Hud.uasset",
+				"C:/BluePrint/Inventory/Inventory/Content/Inventory/Widget/WasteWidget.uasset",
+				"C:/BluePrint/Inventory/Inventory/Content/Inventory/BP_InvenComp.uasset",
 				"C:/cording/BluePrint/Inventory/Inventory/Content/OWD_Fruit_Vegetable/Textures/T_Apple_01_Color.uasset",
 				"C:/cording/BluePrint/Inventory/Inventory/Content/OWD_Fruit_Vegetable/Textures/T_Apple_01_Normal.uasset",
 				"C:/cording/BluePrint/Inventory/Inventory/Content/OWD_Fruit_Vegetable/Textures/T_Apple_02_Color.uasset",
