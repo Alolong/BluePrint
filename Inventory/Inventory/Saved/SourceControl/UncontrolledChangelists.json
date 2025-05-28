@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/BluePrint/Inventory/Inventory/Content/Inventory/BP_Hud.uasset",
+				"D:/BluePrint/Inventory/Inventory/Content/Inventory/Widget/HudWidget.uasset",
+				"D:/BluePrint/Inventory/Inventory/Content/Inventory/Widget/InvenWidget.uasset",
+				"D:/BluePrint/Inventory/Inventory/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/BluePrint/Inventory/Inventory/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/BluePrint/Inventory/Inventory/Content/Inventory/BP_InvenComp.uasset",
+				"D:/BluePrint/Inventory/Inventory/Content/Inventory/Widget/SlotWidget.uasset",
 				"C:/BluePrint/Inventory/Inventory/Content/Inventory/Widget/SlotWidget.uasset",
 				"C:/BluePrint/Inventory/Inventory/Content/Inventory/Widget/HudWidget.uasset",
 				"C:/BluePrint/Inventory/Inventory/Content/Inventory/BP_Hud.uasset",
