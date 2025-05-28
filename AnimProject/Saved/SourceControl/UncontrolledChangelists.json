@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/AnimProject/AnimProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/AnimProject/AnimProject/Content/Characters/Mannequins/Meshes/CR_QuinnTemplete.uasset",
+				"C:/AnimProject/AnimProject/Content/Characters/Mannequins/Rigs/CR_QuinnTemplete.uasset",
+				"C:/AnimProject/AnimProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MZ/UQKFLE6NCDT9OI9KT6D3X2.uasset",
+				"C:/AnimProject/AnimProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/XQJOYZISH9QRUX0K9HS5KR.uasset",
+				"C:/AnimProject/AnimProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5A/TE949K90GDHCR40MCM20S2.uasset",
+				"C:/AnimProject/AnimProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0Y/BX1ZH7HSLN7VO9OQU1EMGF.uasset",
+				"C:/AnimProject/AnimProject/Content/CR_QuinnTemplete_Take1.uasset",
+				"C:/AnimProject/AnimProject/Content/Characters/Mannequins/Meshes/SK_Mannequin_Sequence.uasset"
+			]
+		}
+	]
+}
